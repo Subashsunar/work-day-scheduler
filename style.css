@@ -30,9 +30,11 @@ textarea {
   border-radius: 15px;
 }
 
+/* Added a line height (1 pixel) */
 .row {
   white-space: pre-wrap;
   height: 80px;
+  line-height: 1px;
   border-top: 1px solid white;
 }
 
